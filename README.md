@@ -34,7 +34,7 @@ Virtual Dressing Room/
 ├── detection.py
 ├── main.py
 └── README.md
-
+```
 ---
 
 ## **Methodology**  
